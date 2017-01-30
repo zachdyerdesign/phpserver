@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Database file
+includes/database.php
+classes/Database.php
+
+#ftp files
+.ftpconfig
+.ftpignore
