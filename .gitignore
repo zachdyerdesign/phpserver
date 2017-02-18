@@ -47,7 +47,8 @@ Temporary Items
 .apdisk
 
 #Database file
-database.php
+classes/Database.php
+
 
 #ftp files
 .ftpconfig
