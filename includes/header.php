@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>PHP Server</title>
+    <title><?php echo $config['title']; ?></title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-theme.css">
     <link rel="stylesheet" href="css/theme.css">
@@ -11,5 +11,5 @@
 
   </head>
   <body>
+    <?php error_reporting(E_ALL); ?>
     <div class="container">
-      

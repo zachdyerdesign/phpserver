@@ -53,3 +53,7 @@ classes/Database.php
 #ftp files
 .ftpconfig
 .ftpignore
+
+#Dev config
+config.php
+
